@@ -6,3 +6,5 @@ function splitToDigit(a) {
       return Number(i);
     });
   }
+  
+ 
